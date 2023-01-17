@@ -15,7 +15,7 @@ Analyse de survies:
 Comparaison de la survie dans les 2 cohortes
 Sélection de variables pronostiques dans chaque cohorte
 
-## données disponibles
+## Données disponibles
 2 cohortes différentes : 
 Chirurgie (TheseAudrey.xlsx); n=29
 Radio thérapie (TheseAudreyCGFL.xlsx); n=22
