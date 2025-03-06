@@ -14,8 +14,8 @@ In light of this, we aim to compare the impact of surgical intervention and ster
 
 ## **Available Data**  
 Two different cohorts:  
-- **Surgery Cohort**: `TheseAudrey.xlsx`; n = 29  
-- **Radiotherapy Cohort**: `TheseAudreyCGFL.xlsx`; n = 22  
+- **Surgery Cohort**: `cohort1.xlsx`; n = 29  
+- **Radiotherapy Cohort**: `cohort2.xlsx`; n = 22  
 
 ## **Methods**  
 Each variable is tested univariately in a Cox model. A variable is considered significantly related to survival if its p-value is less than 0.10.  
